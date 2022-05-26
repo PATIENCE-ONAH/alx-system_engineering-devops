@@ -15,3 +15,4 @@ A script that changes the owner to vincent
 A script that changes the owner and group owner
 A script that changes the file
 A script that will play Star Wars iv episode in the terminal
+A script that add execute permission to all subdirectories of the current directory for owner group owner and other users
