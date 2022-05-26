@@ -1,1 +1,1 @@
-Moving back to the previous directory
+Symbolic link
