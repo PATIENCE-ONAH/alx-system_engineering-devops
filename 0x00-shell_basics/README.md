@@ -2,3 +2,4 @@ List all the files in the current directory and the parents current directory an
 A script that lists all files in the current directory and the parents current working directory
 Create a symbolic link
 A script that copies all the HTML files
+A script that prints the type of file
