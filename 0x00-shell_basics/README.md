@@ -1,5 +1,3 @@
-List all the files in the current directory and the parents current directory and in /boot directory in a long format
-A script that lists all files in the current directory and the parents current working directory
-Create a symbolic link
-A script that copies all the HTML files
-A script that prints the type of file
+A script that copies all the HTML files from the working directory to the parents of the working directory
+A command that lists all the files and directories of the current directory separated by commas
+create a magic file that can be used with the command file
