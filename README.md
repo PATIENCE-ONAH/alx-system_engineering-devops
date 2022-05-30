@@ -1,1 +1,1 @@
-ALX system engineering developes
+DISCRIPTION OF WHAT EACH SCRIPT IS DOING:
